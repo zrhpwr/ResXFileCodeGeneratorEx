@@ -23,6 +23,7 @@ using DMKSoftware;
 
 namespace DMKSoftware.CodeGenerators
 {
+    [ComVisible(true)]
     public abstract class BaseResXFileCodeGeneratorEx : BaseCodeGeneratorWithSite, IVsRefactorNotify
     {
 		private const string CSharpObfuscationAttributeFinderRegex = @"[ \f\r\t\v]*\[global::System.Reflection.ObfuscationAttribute\(.*\)\][ \f\r\t\v]*\n";
