@@ -9,9 +9,13 @@ The original extension has been updated for multiple versions of Visual Studio o
 
 Previous versions can be found at
 
+* [VS2017](https://github.com/cpaton/ResXFileCodeGeneratorEx/tree/vs-2017)
+* [VS2015](https://marketplace.visualstudio.com/items?itemName=Paruz.ExtendedStronglyTypedResourceGenerator)
+* [VS2013](https://marketplace.visualstudio.com/vsgallery/16d24be3-6400-4a43-b946-766e41aca4bd)
+* [VS2012](http://visualstudiogallery.msdn.microsoft.com/18e29594-3527-4bbb-986a-52b610b77e23) ([Source Code](https://github.com/EZSlaver/ResXFileCodeGeneratorEx2012/))
 
-* Installing
+
+# Installing
 The original project included an MSI, but installers are no longer supported in VisualStudio. Open Visual Studio as Administrator (*) and open the ResXFileCodeGeneratorEx.sln. It is grouped into Deployment and Design folders. Build the solution. This will output the files to src\ResXFileCodeGeneratorExPackage\bin\Debug. Open the ResxCodeFileGeneratorEx2019.vsix file in that folder. This will register the generator with Visual Studio.
-
 
 (*) since it is building/registering a COM component.
