@@ -1,4 +1,4 @@
-ResXFileCodeGeneratorEx2019
+ResXFileCodeGeneratorEx2022
 ===========================
 
 A VS2022 port of the ResXFileCodeGeneratorEx extension.
