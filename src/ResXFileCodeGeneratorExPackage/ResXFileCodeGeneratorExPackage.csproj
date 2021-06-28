@@ -41,7 +41,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ResxCodeFileGeneratorEx.Package</RootNamespace>
-    <AssemblyName>ResxCodeFileGeneratorEx2019</AssemblyName>
+    <AssemblyName>ResxCodeFileGeneratorEx2022</AssemblyName>
     <SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>ResXFileCodeGenerator.snk</AssemblyOriginatorKeyFile>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
